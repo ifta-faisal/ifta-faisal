@@ -23,3 +23,5 @@ My preferable operarting system is Windows & Mac. I like Mac that doesn't mean t
 ## 🖥⌨ Github Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifta-faisal&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifta-faisal&show_icons=true&theme=transparent&layout=compact)
+
+## Support me if you felt generous 🤞
