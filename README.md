@@ -20,5 +20,6 @@ My preferable operarting system is Windows & Mac. I like Mac that doesn't mean t
 "><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-
-
+## 🖥⌨ Github Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ifta-faisal&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifta-faisal&show_icons=true&theme=transparent&layout=compact)
