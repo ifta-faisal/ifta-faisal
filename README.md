@@ -13,7 +13,7 @@ My preferable operarting system is Windows & Mac. I like Mac that doesn't mean t
 </br>
 
 <h2 align="center">I'd like to help you! 🧐</h2>
-<h align="center">📫 Let's connect: **ifaisal222324@bscse.uiu.ac.bd** </h>
+<h1 align="center">📫 Let's connect: ifaisal222324@bscse.uiu.ac.bd </h1>
 <div align="center">
   <a align="center" href="https://www.facebook.com/share/15NGwuwSPR/"><img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a align="center" href="https://www.linkedin.com/in/ifta-faisal-030738255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
